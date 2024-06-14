@@ -1,0 +1,45 @@
+.login-form{
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 30%; 
+    margin-left: 30%;
+    margin-top: 10%;
+    
+}
+.btnenviar{
+    text-align: center;
+    padding: 20px;
+    background-color:rgb(240, 240, 5);
+    border: none;
+    border-radius: 5px;
+    color: black;
+    cursor: pointer;
+    border-style: dashed;
+    font-size: 18px;
+}
+.input-group {
+    margin-bottom: 20px;
+    padding: 2px;
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body{
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+   
+}
+
+input{
+    padding: 5px;
+   border-style:dotted
+}
+label{
+    font-size: 18px;
+}

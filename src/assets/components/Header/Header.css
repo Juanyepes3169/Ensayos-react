@@ -1,0 +1,10 @@
+
+
+.title{
+    text-align: center;
+    background-color: yellow;
+    padding: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-color: black;
+    border-style:groove;
+}
